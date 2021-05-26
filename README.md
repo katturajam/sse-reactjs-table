@@ -1,4 +1,4 @@
-## Server Sent Events with ReactJs
+## Server Sent Event with ReactJs
 The project developed using nodejs server sent events and live event data displayed into data table using reactjs.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and Rescripts.
